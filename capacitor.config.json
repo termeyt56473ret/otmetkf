@@ -1,0 +1,9 @@
+{
+  "appId": "ru.otmetka.worker",
+  "appName": "Отметка",
+  "webDir": "www",
+  "server": {
+    "url": "https://otmetka-production.up.railway.app",
+    "cleartext": false
+  }
+}
